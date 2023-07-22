@@ -1,1 +1,3 @@
-# Power-BI_Project_E-Commerce_Data_Analysis
+Built an interactive E-commerce Sales dashboard with Power BI tool which provides businesses with valuable insights on their sales performance and helps them in making informed decisions to improve their profitability.
+Better Decision-Making: Provides real-time data updates and customizable features that enable businesses to make informed decisions and stay ahead of their competition.
+Increased Profitability: The dashboard provides insights on shipping costs and profitability, enabling businesses to optimize their strategies and improve their margins. Improved Sales Performance: The dashboard helps in identifying factors such as their top-selling products category, best-performing customer se
